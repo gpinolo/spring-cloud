@@ -1,0 +1,10 @@
+spring:
+  config:
+    import: optional:configserver:http://localhost:8888
+  jpa:
+    hibernate:
+      ddl-auto: none
+  application:
+    name: room
+server:
+  port: 8083

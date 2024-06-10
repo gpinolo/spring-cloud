@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  config:
+    import: optional:configserver:http://localhost:8888
+  application:
+    name: guest
+server:
+  port: 8081
