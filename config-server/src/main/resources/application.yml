@@ -6,3 +6,4 @@ spring:
       server:
         git:
           uri: ${user.home}/etc
+          default-label: master
