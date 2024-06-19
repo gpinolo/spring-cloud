@@ -8,6 +8,8 @@ RUN mkdir "/root/etc"
 
 COPY etc /root/etc
 
+RUN mv "/root/etc/git" "/root/etc/.git"
+
 WORKDIR /config-server
 
 #moved in docker-compose.yml
