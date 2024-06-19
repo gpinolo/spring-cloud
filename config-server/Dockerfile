@@ -10,6 +10,6 @@ COPY etc /root/etc
 
 WORKDIR /config-server
 
-EXPOSE 8888
-
-ENTRYPOINT ["java","-jar","config-server-0.0.1-SNAPSHOT.jar"]
+#moved in docker-compose.yml
+#EXPOSE 8888
+#ENTRYPOINT ["java","-jar","config-server-0.0.1-SNAPSHOT.jar"]
