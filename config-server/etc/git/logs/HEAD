@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 16891a6a65f8bca71c10dfe02b5374bbde489b8a gdecesfc <giovanni.decesare1@walgreens.com> 1712953164 +0200	commit (initial): Adding URLs configuration
-16891a6a65f8bca71c10dfe02b5374bbde489b8a 2e72ff522f5631d87f8554a5eaf241913abf9439 gdecesfc <giovanni.decesare1@walgreens.com> 1713021564 +0200	commit: fix RESERVATION_SERVICE_URL property
-2e72ff522f5631d87f8554a5eaf241913abf9439 8a49755b1afc65482010e2009e0962ec4229feff gdecesfc <giovanni.decesare1@walgreens.com> 1713108266 +0200	commit: Change ports
-8a49755b1afc65482010e2009e0962ec4229feff 328909191a57b9da4e3ed84fa011fd9cbd747af3 gdecesfc <giovanni.decesare1@walgreens.com> 1713110319 +0200	commit: Rename and add configuration files
